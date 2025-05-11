@@ -18,11 +18,11 @@ A simple bash script to perform Nmap scanning on a target IP or domain. This too
 INSTRUCTIONS
 -1. CLONE THIS REPO
 
-   `git clone https://github.com/s7ww/namp-bash-scanner.`
+   `git clone https://github.com/s7ww/nmap-bash-scanner.`
    
 -2.Navigate to the project directory:
 
-`cd amp-bash-scanner`
+`cd nmap-bash-scanner`
 
 -3.Make the script executable:
 
