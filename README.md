@@ -33,6 +33,8 @@ INSTRUCTIONS
 
 `sudo ./scan.sh`
 
+---
+
 
 The script will prompt you for a target IP or domain, and then it will run a series of scans:
 
@@ -49,6 +51,8 @@ OS and Service Detection (detects the operating system and services).
 View the results:
 
 The results will be saved in the results/ directory with the format targetname_scan.txt.
+
+---
 
 Example Output :
 
