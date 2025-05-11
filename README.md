@@ -4,7 +4,7 @@ A simple bash script to perform Nmap scanning on a target IP or domain. This too
 
 ## Features
 - Ping Scan to check if the host is up.
-- Full Port Scan (all 65535 ports).
+- Asks user for a choice to do either Full Port Scan (all 65535 ports) or scan TOP 100 ports
 - OS and Service Detection.
 
 ## Requirements
@@ -16,19 +16,20 @@ A simple bash script to perform Nmap scanning on a target IP or domain. This too
   sudo apt install nmap
 
 INSTRUCTIONS
--1. CLONE THIS REPO
+
+1. CLONE THIS REPO
 
    `git clone https://github.com/s7ww/nmap-bash-scanner.`
    
--2.Navigate to the project directory:
+2.Navigate to the project directory:
 
 `cd nmap-bash-scanner`
 
--3.Make the script executable:
+3.Make the script executable:
 
 `chmod +x scan.sh`
 
--4.Run the script:
+4.Run the script:
 
 `sudo ./scan.sh`
 
