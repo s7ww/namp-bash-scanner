@@ -84,10 +84,6 @@ Author
 Acknowledgments
 Nmap for providing the underlying scanning tool.
 
-pgsql
-Copy
-
-
 
 
 
